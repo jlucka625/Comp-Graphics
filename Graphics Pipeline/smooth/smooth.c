@@ -1195,7 +1195,7 @@ main(int argc, char** argv)
     }
     
     if (!model_file) {
-        model_file = "/Users/jonathanlucka/Desktop/smooth/data/dolphins.obj";
+        model_file = "/data/dolphins.obj";
     }
     
     //pixels
